@@ -1,0 +1,7 @@
+/out/
+*.txt
+/*.xlsx
+/*.pdf
+*.zip
+/.idea/
+*.iml
